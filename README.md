@@ -6,3 +6,5 @@ ya una vez habiendo heco nuesttro perfil entoces le damos a crear nuestro reposi
 ## carrera : INGIENERIA EN SISTEMAS 
 ## 1 ER AÑO DE CARRERA
 Este repositorio es una practica para aprrender mas sobre el control de versiones y tambien como hacer bien un repositorio
+
+## Ya hicimos el cambio de rama
